@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-* [CentOS安裝](chapter1.md)
+* [前言](README.md)
+* [1.CentOS安裝](chapter1.md)
 
